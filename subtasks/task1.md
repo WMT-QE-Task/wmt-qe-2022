@@ -2,7 +2,7 @@
 layout: page
 title: 'Task 1: Quality prediction'
 ---
-[Home](../wmt-qe-2022/index.md)
+[Home](../index.md)
 
 The quality prediction task follows the trend of the previous years in comprising a **sentence-level subtask** where the goal is to predict the quality score for each source-target sentence pair and a **word-level subtask** where the goal is to predict the translation errors, assigning OK/BAD tags to each word of the target. 
 
