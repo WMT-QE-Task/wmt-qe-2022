@@ -89,7 +89,7 @@ Here are some open source software for QE that might be useful for participants:
 - DeepQuest-py
 - TransQuest
 
-Also check previous QE editions [here](./subtasks/previous/)
+Also check the previous QE editions [here](./subtasks/previous/)
 
 ## Submission Requirements
 Each participating team can submit at most 10 systems for each of the language pairs of each subtask. These should be submitted to a CODALAB page for each subtask.
