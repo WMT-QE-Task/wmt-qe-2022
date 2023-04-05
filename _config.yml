@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            'WMT QE Shared Task 2022'
 #tagline:          'A Jekyll theme'
-description:      'Automatic methods for estimating quality of MT outputs at run-time.'
-url:             /wmt-qe-2022/
+description:      'Automatic methods for estimating the quality of MT outputs at run-time.'
+url:               /wmt-qe-2022/
 baseurl:           /wmt-qe-2022/
 
 #author:
