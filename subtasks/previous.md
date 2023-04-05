@@ -3,11 +3,11 @@ layout: page
 title: 'Previous Editions'
 ---
  
-[Home](../index.md)
+[Home](../wmt-qe-2022/index.md)
 
 ## Quality Estimation Shared Tasks
 
-You can find below the links to the previous QE shared task editions, organised as part of the WMT conference
+You can find below all available links to the previous QE shared task editions, organised as part of the WMT conference
 
 
 * [2021 QE task](https://www.statmt.org/wmt21/quality-estimation-task.html)
